@@ -42,7 +42,7 @@ services:
       - ./worker:/app
     environment:
       - REDIS_HOST=redis
-      - REDIS_PORT=6379diomowo1
+      - REDIS_PORT=6379
 
   
 
